@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 -->
+- I'm Full Stack Developer, although i like more the Back End
 - 🔭 I’m currently working at Mi Águila
 - 🌱 I’m currently learning Flutter & Java
 <!-- - 👯 I’m looking to collaborate on ...
