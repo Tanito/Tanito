@@ -30,5 +30,5 @@ Here are some ideas to get you started:
    <a href="https://github.com/Tanito/quizapp_BACKEND-1"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=quizapp_BACKEND-1&langs_count=5&theme=react">
   <a href="https://github.com/Tanito/QuizApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&card_height=300&&repo=QuizApp&langs_count=5&layout=compact&theme=react">
   <a href="https://github.com/Tanito/WineStore"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=WineStore&layout=compact&theme=react">
-  <a href="https://github.com/Tanito/Python"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=Python&hide=html,scss,css&langs_count=10&layout=compact&theme=react">
+  <a href="https://github.com/Tanito/control-flota"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=Python&hide=html,scss,css&langs_count=10&layout=compact&theme=react">
 </p>  
