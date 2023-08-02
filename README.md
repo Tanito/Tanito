@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 -->
 - I'm Full Stack Developer, although i like more the Back End
 - 🔭 I’m currently working at Kuntur Tech
-- 🌱 I’m currently learning Flutter & Java
-<!-- - 👯 I’m looking to collaborate on ...
+<!--- 🌱 I’m currently learning Flutter & Java
+ - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: <br>
