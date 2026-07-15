@@ -27,20 +27,16 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-  🚀 <a href="https://github.com/Tanito/quizapp_BACKEND-1">
-   
-  </a>
+<strong>🚀 QuizApp Backend</strong><br>
+<a href="https://github.com/Tanito/quizapp_BACKEND-1">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=quizapp_BACKEND-1&theme=react">
+</a>
 
-  📱 <a href="https://github.com/Tanito/QuizApp">
-    
-  </a>
+<br><br>
 
-  🍷 <a href="https://github.com/Tanito/WineStore">
-   
-  </a>
-
-  🚚 <a href="https://github.com/Tanito/control-flota">
-   
-  </a>
+<strong>📱 QuizApp</strong><br>
+<a href="https://github.com/Tanito/QuizApp">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=QuizApp&theme=react">
+</a>
 
 </p>
