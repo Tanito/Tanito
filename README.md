@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -->
 - 📫 How to reach me: <br>
  <a href="https://www.linkedin.com/in/ulises-delia/">LinkedIn</a> <br>
- <a href="https://ulises-delia.vercel.app">Portfolio</a>
+
 
 
 
