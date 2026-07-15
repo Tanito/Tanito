@@ -23,24 +23,24 @@ Here are some ideas to get you started:
 <a href="https://github.com/Tanito"><img width="800" src="https://github-profile-trophy.vercel.app/?username=Tanito&row=1&column=5&theme=discord">
 </p>
     
-## 🚀 My Repositories
+## My Repositories
 
 <p align="left">
 
   🚀 <a href="https://github.com/Tanito/quizapp_BACKEND-1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=quizapp_BACKEND-1&theme=react">
+   
   </a>
 
   📱 <a href="https://github.com/Tanito/QuizApp">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=QuizApp&theme=react">
+    
   </a>
 
   🍷 <a href="https://github.com/Tanito/WineStore">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=WineStore&theme=react">
+   
   </a>
 
   🚚 <a href="https://github.com/Tanito/control-flota">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanito&repo=control-flota&theme=react">
+   
   </a>
 
 </p>
