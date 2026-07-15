@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 -->
 - I'm Full Stack Developer
 - 🔭 I’m currently working at Outliers Capital
+- - 📫 How to reach me: <br>
+ <a href="https://www.linkedin.com/in/ulises-delia/">LinkedIn</a> <br>
 
 - ## 💻 Technologies
 
@@ -26,8 +28,7 @@ Experienced building scalable web and mobile applications using:
  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: <br>
- <a href="https://www.linkedin.com/in/ulises-delia/">LinkedIn</a> <br>
+
 
 
 
