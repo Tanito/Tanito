@@ -5,6 +5,8 @@
 Here are some ideas to get you started:
 -->
 - I'm Full Stack Developer
+- 🔭 I’m currently working at Outliers Capital
+
 - ## 💻 Technologies
 
 Experienced building scalable web and mobile applications using:
@@ -19,7 +21,7 @@ Experienced building scalable web and mobile applications using:
 - 🔧 Git, GitHub Actions & CI/CD
 
 
-- 🔭 I’m currently working at Outliers Capital
+
 <!--- 🌱 I’m currently learning Flutter & Java
  - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
