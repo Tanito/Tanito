@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!--**
 <p align="left">
   <a href="https://github.com/Tanito"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Tanito&show_icons=true&theme=react">
   <a href="https://github.com/Tanito"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanito&hide=html,scss,css,objective-c, shell&langs_count=10&layout=compact&theme=react">
@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 </a>
 
 </p>
+-->
