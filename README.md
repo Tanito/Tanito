@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 -->
 - I'm Full Stack Developer
 - 🔭 I’m currently working at Outliers Capital
+- 🎓 I’m currently studying for a University Degree in Cyber Risk Management.
 - 📫 How to reach me: <br>
  <a href="https://www.linkedin.com/in/ulises-delia/">LinkedIn</a> <br>
 
